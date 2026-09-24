@@ -1,0 +1,6 @@
+{
+  "name": "Arena of Ranges: Hero Survival",
+  "description": "Аркадная 2D-игра на HTML5 Canvas: сражения героя против волн AI-врагов, визуализация радиуса поражения оружия и система прокачки.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
